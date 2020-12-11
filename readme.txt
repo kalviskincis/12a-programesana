@@ -1,1 +1,2 @@
-Sveika, pasaule!
+Sveika, visa pasaule!
+Laba diena!
